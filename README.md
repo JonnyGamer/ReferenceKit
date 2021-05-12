@@ -1,5 +1,6 @@
 # ReferenceKit
-Create a reference on any Swift value
+Create a reference on any Swift value.  
+Even if it is a struct!
 
 ---
 
